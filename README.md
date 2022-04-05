@@ -1,2 +1,10 @@
 # vkAudio.py
-Mobile-API for hidden vk audio api
+Mobile-API for [vkontakte](https://vk.com) audio api
+
+## Examples
+```python3
+import vkAudio
+VkAudioClient = vkaudio.VkAudioClient(access_token="")
+popular_audios = VkAudioClient.get_popular_audios(count=100)
+print(popular_audios)
+```
