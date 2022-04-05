@@ -1,5 +1,5 @@
 # vk_audio.py
-Mobile-API for [vkontakte](https://vk.com) audio api
+Mobile-API for interacting with audios in [vkontakte](https://vk.com)
 
 ## Examples
 ```python3
