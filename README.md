@@ -1,7 +1,7 @@
 # vk_audio.py
 Audio-API for interacting with audios in [vkontakte](https://vk.com) social network
 
-## Examples
+## Example
 ```python3
 import vk_audio
 VkAudioClient = vk_audio.VkAudioClient(access_token="")
