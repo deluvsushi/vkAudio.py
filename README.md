@@ -1,5 +1,5 @@
 # vk_audio.py
-Audio-API for interacting with audios in [vkontakte](https://vk.com) social network
+Web-API for interacting with audios in [vkontakte](https://vk.com) social network
 
 ## Example
 ```python3
