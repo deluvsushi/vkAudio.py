@@ -4,7 +4,7 @@ Web-API for interacting with audios in [vkontakte](https://vk.com) social networ
 ## Example
 ```python3
 import vk_audio
-VkAudioClient = vk_audio.VkAudioClient(access_token="")
-popular_audios = VkAudioClient.get_popular_audios(count=100)
+vk_audio = vk_audio.VkAudio(access_token="")
+popular_audios = vk_audio.get_popular_audios(count="")
 print(popular_audios)
 ```
